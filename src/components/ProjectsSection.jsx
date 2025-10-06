@@ -6,7 +6,7 @@ const projects = [
     title: "Smart Inventory & Stock Management Platform",
     description:
       "A full-stack web application built using PHP, MySQL, Laravel, HTML/CSS, JavaScript, and Bootstrap. Designed to manage product inventory with supplier management, stock tracking, and automatic low-stock alerts to streamline business operations.",
-    image: "/projects/inventory_system.png",
+    image: "/projects/Smart Inventory & Stock Management Platform.jpg",
     tags: ["PHP", "Laravel", "MySQL", "Bootstrap"],
   },
   {
@@ -14,7 +14,7 @@ const projects = [
     title: "Comprehensive Student Information Management System",
     description:
       "An academic project built with Laravel, MySQL, and Blade templating to handle student data, attendance, and results. Designed to improve efficiency and accuracy in educational administration.",
-    image: "/projects/student_system.png",
+    image: "/projects/Comprehensive Student Information Management System.jpg",
     tags: ["Laravel", "MySQL", "Blade", "Bootstrap"],
   },
   {
@@ -22,7 +22,7 @@ const projects = [
     title: "E-Commerce Sports Equipment Platform",
     description:
       "An e-commerce platform for sports products, featuring product catalogs, shopping cart functionality, and order management. Developed using PHP, MySQL, Laravel, and Bootstrap for a secure and responsive user experience.",
-    image: "/projects/sports_shop.png",
+    image: "/projects/E-Commerce Sports Equipment Platform.jpg",
     tags: ["PHP", "Laravel", "MySQL", "Bootstrap"],
   },
   {
@@ -30,7 +30,7 @@ const projects = [
     title: "API Integration & Authentication Implementations",
     description:
       "A set of mini-projects showcasing integration with third-party RESTful APIs using JSON and authentication techniques. Demonstrates ability to connect external services and handle real-time data efficiently.",
-    image: "/projects/api_projects.png",
+    image: "/projects/API Integration & Authentication Implementations.jpg",
     tags: ["RESTful APIs", "JSON", "Authentication"],
   },
   {
@@ -38,7 +38,7 @@ const projects = [
     title: "Medical Cost Prediction Using Data Analytics",
     description:
       "A predictive data analysis project developed with Python and Pandas to forecast medical expenses based on demographic and health data. Applied regression models and data cleaning techniques for accurate prediction results.",
-    image: "/projects/medical_cost.png",
+    image: "/projects/Medical Cost Prediction Using Data Analytics.jpg",
     tags: ["Python", "Pandas", "Machine Learning"],
   },
   {
@@ -46,7 +46,7 @@ const projects = [
     title: "LPL 2024 Cricket Analytics Dashboard (Power BI)",
     description:
       "A dynamic Power BI dashboard designed to analyze Lanka Premier League 2024 data, featuring match insights, player performance visualization, and comparative analytics across teams.",
-    image: "/projects/lpl_dashboard.png",
+    image: "/projects/LPL 2024 Cricket Analytics Dashboard (Power BI).jpg",
     tags: ["Power BI", "Data Visualization", "Analytics"],
   },
 ];
